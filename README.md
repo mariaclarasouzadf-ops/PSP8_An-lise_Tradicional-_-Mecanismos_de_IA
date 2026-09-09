@@ -1,4 +1,4 @@
-# PSP8_An-lise_Tradicional-_-Mecanismos_de_IA
+# PSP8_Analise_Tradicional-_-Mecanismos_de_IA
 # Análise Comparativa: Estatística Tradicional vs. Modelos Inteligentes
 
 Este projeto investiga empiricamente as diferenças de acurácia e capacidade analítica entre métodos descritivos convencionais e modelos de Machine Learning supervisionados.
