@@ -1,0 +1,1 @@
+# PSP8_An-lise_Tradicional-_-Mecanismos_de_IA
