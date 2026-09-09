@@ -25,9 +25,3 @@ A comparação por pares revelou os seguintes indicadores:
 
 ## 4. Conclusão
 A abordagem tradicional oferece leitura adequada do panorama histórico, mas é insuficiente para antecipar comportamentos heterogêneos. O uso do mecanismo preditivo permitiu capturar padrões não-lineares, oferecendo diagnósticos individualizados superiores às análises descritivas usuais.
-
-## 5. Como Reproduzir no Google Colab
-1. Suba o arquivo `projeto.py` no ambiente do Colab.
-2. Em uma célula, execute:
-   ```bash
-   !python projeto.py
